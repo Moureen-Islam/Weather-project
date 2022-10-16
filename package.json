@@ -11,5 +11,9 @@
     "url": "Weather-APp"
   },
   "author": "Moureen Islam",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
 }
